@@ -23,7 +23,7 @@
     "chai-bignumber": "^2.0.2",
     "find-parent-dir": "^0.3.0",
     "openzeppelin-solidity": "1.12.0",
-    "rlp": "^2.1.0",
+    "rlp": "^2.2.7",
     "solc": "^0.4.24",
     "solhint": "^1.2.1",
     "solidity-coverage": "^0.5.11",
